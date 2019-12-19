@@ -1,0 +1,123 @@
+{
+    "name": "Rackspace",
+    "description": "Host on our dedicated or cloud infrastructure or through one of our partners. Leverage our expertise to run fast and lean. We offer web, app or email hosting, data services and managed security solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/241-rackspace.jpg",
+    "tags": [
+        "api lifeycle",
+        "cloud",
+        "compute",
+        "dns cloud",
+        "have api",
+        "isp",
+        "relative data",
+        "service api",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rackspace\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rackspace",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/241-rackspace.jpg",
+            "humanURL": "http:\/\/www.rackspace.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/rackspace.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rackspace-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/dfw.servers.api.rackspacecloud.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.rackspace.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.rackspace.com\/blog\/feed\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/rackspace"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rackspace"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.rackspace.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@rackspace.co.uk"
+        },
+        {
+            "type": "Email",
+            "url": "legalnotice@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "rackspacepartners@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "channel@rackspace.co.uk"
+        },
+        {
+            "type": "Email",
+            "url": "asia.partner@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "anz.partner@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "publicrelations@rackspace.com"
+        },
+        {
+            "type": "Email",
+            "url": "michael.house@rackspace.co.uk"
+        },
+        {
+            "type": "Email",
+            "url": "daniela.jimenezparke@rackspace.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/rackspace"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.rackspace.com\/calculator"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rackspace"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.rackspace.com\/"
+        }
+    ]
+}
