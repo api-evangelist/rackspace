@@ -1,5 +1,5 @@
 {
-    "id": "bd8c095eef82af206e62e9ff8f52574c",
+    "id": "b363bb3f755f3bf6ed55b0ecd5c1b148",
     "name": "Rackspace",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "af650f04e4bcecfafe08a643aa70e9f6",
+            "id": "ab4378582fe4f0c79c2efb89c8824aeb",
             "name": "List limits",
             "url": "https\/v1.0\/{account}\/limits\n",
             "description": "This call provides a list of all applicable limits for a specified account.The following examples show the requests and corresponding responses to list\nall limits for the specified account.",
@@ -44,11 +44,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "6b256191eb79efdc8e03a65b4e59f668",
+            "id": "a2bea204ace590dc4189df2c187fa3c4",
             "name": "Show limits",
             "url": "https\/v1.0\/{account}\/limits\/{type}\n",
             "description": "This call provides a list of all applicable limits of a specified type for\nthe specified account.The following examples show the requests and corresponding responses to list\nall applicable limits of a specified type for the specified account.",
@@ -89,11 +89,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "87735a1b8ce4b6657d8313f526418fa2",
+            "id": "adb8e7dc04d545e55c8aa2ec5a6e0199",
             "name": "List limit types",
             "url": "https\/v1.0\/{account}\/limits\/types\n",
             "description": "This call provides a list of all applicable limit types for a specified account.The following examples show the requests and corresponding responses to list\nall limit types for the specified account.",
@@ -127,11 +127,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "6f31748ae258e422a3dae746b0e4c954",
+            "id": "62b438dce4b928722b28112b632d440c",
             "name": "List domains",
             "url": "https\/v1.0\/{account}\/domains\n",
             "description": "These calls provide a list of all DNS domains manageable by a given account.\nThe resulting list is flat, and does not break the domains down hierarchically\nby subdomain. All representative domains are included in the list, even if a\ndomain is conceptually a subdomain of another domain in the list.Note",
@@ -165,11 +165,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "1fba3ee7c16a1ba0ff6ab739da426223",
+            "id": "e42d75698bb9f0095add03361f1a74f0",
             "name": "Create domain",
             "url": "https\/v1.0\/{account}\/domains\n",
             "description": "NoteThis call returns an asynchronous response, See\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -203,11 +203,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "d348fc78b3b2bdaca3e856928ca536fd",
+            "id": "f3ba5b8d9da74197414aa96ee6579682",
             "name": "Update domains",
             "url": "https\/v1.0\/{account}\/domains\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -241,11 +241,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "afae0a728b81059e2dbd860e1fe444ee",
+            "id": "30827e75461b45a84cf25f60ef8d7f92",
             "name": "Delete domains",
             "url": "https\/v1.0\/{account}\/domains\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -272,11 +272,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "797ade5b06ded42e6411fd3e6e88b02f",
+            "id": "8f5e079e0d893092bbf7a73a24c35611",
             "name": "Search domains",
             "url": "https\/v1.0\/{account}\/domains\/search\n",
             "description": "NoteFilter criteria may consist of:",
@@ -303,11 +303,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "63d9a3108b9733ad8d3e9a992e3c79a1",
+            "id": "1868bd39ec6bcb753d026bdc17f4e9d7",
             "name": "List domain details without subdomains",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\n",
             "description": "This call provides the detailed output for a specified domain configured and\nassociated with an account. This call is not capable of returning details for a\ndomain that has been deleted.This call does not require a request body.",
@@ -348,11 +348,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "401f55a07e60c165ee0691891e0e91fc",
+            "id": "5e53eee0166b179aaa6544b483c8875f",
             "name": "Update domain",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -393,11 +393,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "eff4ec54728fee0da0092fd7c3b09337",
+            "id": "ba46eeddf81d97e0f29114d7e8a1b574",
             "name": "Delete domain",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -438,11 +438,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "d33a2dc42a2bd0336d7c490fd1e58231",
+            "id": "6dccbd83c5eaa2a4f83f17c510c159f4",
             "name": "Show domain changes",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/changes\n",
             "description": "This call shows all changes to a specified domain since a specified\ndate\/time. The since parameter is optional and defaults to midnight of the\ncurrent day. See Date\/Time format for details on how\nto specify this parameter's value.The examples below show the requests and corresponding responses to list the\ndomain changes since midnight, GMT-5, on September 13, 2011.",
@@ -476,11 +476,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "3ea9a88c95023ef212c97e5f8a66dab7",
+            "id": "a4c3ce3f18446e875295bae436e65b67",
             "name": "Export domain",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/export\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses.",
@@ -521,11 +521,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "f84289e29c109c4a64d95b3351ec3425",
+            "id": "978b7a8e037d187f37d096edeccf5df8",
             "name": "Clone domain",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/clone\n",
             "description": "Creates a specified domain ( example2.com ) by cloning a domain with id\ndomainId. All options except cloneName assume a default value of true.Note",
@@ -559,11 +559,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "2c2ecf5ab6e2e3320e3d572e66706102",
+            "id": "5e7752305c4f82a875c0618663894b06",
             "name": "Import domain",
             "url": "https\/v1.0\/{account}\/domains\/import\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -597,11 +597,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "ba886ae94bfb8abe1feb5bd98963b552",
+            "id": "c91853061386707b570108913e796108",
             "name": "List subdomains",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/subdomains\n",
             "description": "This call provides a list of all DNS domains that are subdomains for a\nspecified domain. The resulting list is flat, and does not break the domains\ndown hierarchically by subdomain.Note",
@@ -642,11 +642,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "06649bfa36d2e34d4aa9ee4835e3ce4d",
+            "id": "d9e1aafdb67468877f47696883ae1319",
             "name": "List records",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\n",
             "description": "This call lists all records configured for the specified domain.Note",
@@ -687,11 +687,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "8842045abc62fb7e4d8cb680dd843242",
+            "id": "eb61868b292577f78301d0c4b58afffc",
             "name": "Delete records",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -774,11 +774,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "4296b62a99650e65e041b5a856392e7d",
+            "id": "cccf05e5fee1e873a438b7ebab28a5bf",
             "name": "Update records",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -819,11 +819,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "7fb8694d39d59a05ede10d4af341c4a8",
+            "id": "cd3df9016045e1cad99794155815caa5",
             "name": "Delete record",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\/{recordId}\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -871,11 +871,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "1ddc3605818d97cc95562d6afc00c0ea",
+            "id": "1748f1f91e3374891328861c56557d97",
             "name": "Update record",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\/{recordId}\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -923,11 +923,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "5e42b09ad3749880b5381f38156efa39",
+            "id": "89be7980b3e27634c809b7b9ad2723da",
             "name": "Show record details",
             "url": "https\/v1.0\/{account}\/domains\/{domainId}\/records\/{recordId}\n",
             "description": "This call lists details for a specified record in the specified domain.This table shows the possible response codes for this operation:",
@@ -975,11 +975,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "c6a4fe207961fac2858196bd05f83eee",
+            "id": "25d13de5bde4f757f1022394b87ee48f",
             "name": "Update PTR records",
             "url": "https\/v1.0\/{account}\/rdns\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -1013,11 +1013,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "36865cf2ba6479a88199ce2c4d62c64a",
+            "id": "88910c58ef346c803aeae8293b69d5ec",
             "name": "Add PTR records",
             "url": "https\/v1.0\/{account}\/rdns\n",
             "description": "NoteThis call returns an asynchronous response. Refer to\nSynchronous and asynchronous responses\nfor more details and examples of the way that asynchronous responses work.",
@@ -1051,11 +1051,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "12d2638c3cc5f333c17273081ee922f5",
+            "id": "6ede131fa601394edaf659280e09f0cb",
             "name": "List PTR records",
             "url": "https\/v1.0\/{account}\/rdns\/{service-name}\n",
             "description": "This call lists all PTR records configured for a specified Cloud device.This table shows the possible response codes for this operation:",
@@ -1138,11 +1138,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "5793c789cc795758c63926136908c973",
+            "id": "14c30bb9b86f0ecd2b0ce816f348d09a",
             "name": "Delete PTR records",
             "url": "https\/v1.0\/{account}\/rdns\/{service-name}\n",
             "description": "NoteThis call returns an asynchronous response, as described in\nSynchronous and asynchronous responses.",
@@ -1225,11 +1225,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         },
         {
-            "id": "dee65efb4d18f174a367446f201ee374",
+            "id": "e03fbf319359b9ddd202e6e8d84ffde0",
             "name": "Show PTR record",
             "url": "https\/v1.0\/{account}\/rdns\/{service-name}\/{recordId}\n",
             "description": "This call shows details for a specified PTR record associated with a specified\ncloud device.This table shows the possible response codes for this operation:",
@@ -1319,7 +1319,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "bd8c095eef82af206e62e9ff8f52574c",
+            "collectionId": "b363bb3f755f3bf6ed55b0ecd5c1b148",
             "rawModeData": ""
         }
     ]
